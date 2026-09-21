@@ -15,9 +15,7 @@ tags:
 ---
 
 > [!IMPORTANT]
-> **Notice regarding `Q8_0`:**
-> Running `qwen-image-2.1-Q8_0.gguf` in ComfyUI currently triggers a tensor shape mismatch error (`[136] vs [128]`) during sampling due to 1D RMSNorm scale quantization.
-> **Please use [`Q4_K_M`](#gguf-files), [`Q5_K_M`](#gguf-files), or [`Q6_K`](#gguf-files) instead**, which are verified to work completely fine out of the box. A patched `Q8_0` file will be uploaded soon.
+> **Notice regarding Q8_0:** Depending on your GPU and ComfyUI environment, `qwen-image-2.1-Q8_0.gguf` might encounter a shape mismatch error (`[136] vs [128]`). Feel free to test it, but for guaranteed stability, we recommend using [Q4_K_M](https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF#gguf-files), [Q5_K_M](https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF#gguf-files), or [Q6_K](https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF#gguf-files) instead. A patched Q8_0 file will be uploaded soon.
 
 # Qwen-Image-2.1 Uncensored GGUF
 
