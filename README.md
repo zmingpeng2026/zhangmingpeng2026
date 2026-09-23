@@ -31,6 +31,7 @@ GGUF quantizations of [Qwen/Qwen-Image-2.1](https://huggingface.co/Qwen/Qwen-Ima
 | **Quantization** | **File** | **Size** |
 | --- | --- | ---: |
 | BF16 | [**qwen-image-2.1-UC-BF16.gguf**](https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF/blob/main/qwen-image-2.1-UC-BF16.gguf) | 14.23 GB |
+| FP8 | [**qwen-image-2.1-UC-fp8.safetensors**](https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF/blob/main/qwen-image-2.1-UC-fp8.safetensors) | 6.63 GB |
 | Q8_0 | [**qwen-image-2.1-UC-Q8_0.gguf**](https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF/blob/main/qwen-image-2.1-UC-Q8_0.gguf) | 7.59 GB |
 | Q6_K | [**qwen-image-2.1-UC-Q6_K.gguf**](https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF/blob/main/qwen-image-2.1-UC-Q6_K.gguf) | 5.88 GB |
 | Q5_K_M | [**qwen-image-2.1-UC-Q5_K_M.gguf**](https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF/blob/main/qwen-image-2.1-UC-Q5_K_M.gguf) | 5.22 GB |
