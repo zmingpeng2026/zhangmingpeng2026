@@ -45,3 +45,4 @@ qwen-image-2.1-UC-Q4_K_M.gguf filter=lfs diff=lfs merge=lfs -text
 qwen-image-2.1-UC-Q5_K_M.gguf filter=lfs diff=lfs merge=lfs -text
 qwen-image-2.1-UC-Q6_K.gguf filter=lfs diff=lfs merge=lfs -text
 qwen-image-2.1-UC-Q8_0.gguf filter=lfs diff=lfs merge=lfs -text
+qwen-image-2.1-UC-NVFP4.gguf filter=lfs diff=lfs merge=lfs -text
